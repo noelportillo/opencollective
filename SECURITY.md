@@ -1,7 +1,7 @@
 # Security Policy
 
 > [!WARNING]
-> Due to limited team capacity, we are pausing our bounty program from **July 1st to August 31th 2026**. Issues reported during this period will not be replied to, and will not be elligible for bounties.
+> Due to the increase in security reports due to generative AI, we're only accepting up to 2 reports per individual per week. Choose carefully!
 
 We believe that no technology is perfect and that working with skilled security researchers
 is crucial in identifying weaknesses.
